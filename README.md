@@ -1,1 +1,1 @@
-"# blackjackAI" 
+"# slightly simplified learned blackjackAI" 
